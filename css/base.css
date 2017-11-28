@@ -1,0 +1,22 @@
+/*
+* @Author: Administrator
+* @Date:   2017-09-30 11:37:49
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-30 11:43:04
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+a{
+	text-decoration: none;
+	font-family: "微软雅黑","宋体",sans-serif;
+}
+body{
+	background: #ffffff;
+}
+img{
+	/* 为了兼容IE6 */
+	border: 0; 
+}
